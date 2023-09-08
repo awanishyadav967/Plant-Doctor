@@ -5,4 +5,6 @@ data class History(
     var historyDisease: String,
     var historyPercentage: String,
     var historyImage: String
+
+
 )
