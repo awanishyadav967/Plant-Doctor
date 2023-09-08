@@ -34,6 +34,7 @@ class CheckActivity : AppCompatActivity() {
     private lateinit var resultList: List<Result>
 
     override fun onCreate(savedInstanceState: Bundle?) {
+
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_check)
         getCrop()
