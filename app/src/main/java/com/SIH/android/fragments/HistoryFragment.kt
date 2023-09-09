@@ -1,4 +1,4 @@
-package com.plantplanet.android.fragments
+package com.SIH.android.fragments
 
 import android.content.Intent
 import android.os.Build
@@ -9,11 +9,11 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.Toast
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment
-import com.plantplanet.android.R
-import com.plantplanet.android.activities.HomeActivity
-import com.plantplanet.android.activities.MapsActivity
-import com.plantplanet.android.models.History
-import com.plantplanet.android.utils.DatabaseHelper
+import com.SIH.android.R
+import com.SIH.android.activities.HomeActivity
+import com.SIH.android.activities.MapsActivity
+import com.SIH.android.models.History
+import com.SIH.android.utils.DatabaseHelper
 import kotlinx.android.synthetic.main.fragment_history.*
 import java.io.File
 import java.util.*

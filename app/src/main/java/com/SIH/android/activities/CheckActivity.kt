@@ -1,4 +1,4 @@
-package com.plantplanet.android.activities
+package com.SIH.android.activities
 
 import android.Manifest
 import android.app.Activity
@@ -15,10 +15,10 @@ import android.view.View
 import android.widget.Toast
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
-import com.plantplanet.android.R
-import com.plantplanet.android.utils.CustomModel
-import com.plantplanet.android.models.Result
-import com.plantplanet.android.utils.FirebaseHelper
+import com.SIH.android.R
+import com.SIH.android.utils.CustomModel
+import com.SIH.android.models.Result
+import com.SIH.android.utils.FirebaseHelper
 import com.squareup.picasso.Picasso
 import io.fotoapparat.Fotoapparat
 import kotlinx.android.synthetic.main.activity_check.*

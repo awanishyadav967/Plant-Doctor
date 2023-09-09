@@ -1,12 +1,12 @@
-package com.plantplanet.android.utils
+package com.SIH.android.utils
 
 import android.content.ContentValues
 import android.content.Context
 import android.database.sqlite.SQLiteDatabase
 import android.database.sqlite.SQLiteOpenHelper
 import android.widget.Toast
-import com.plantplanet.android.R
-import com.plantplanet.android.models.History
+import com.SIH.android.R
+import com.SIH.android.models.History
 
 class DatabaseHelper(private val context: Context) : SQLiteOpenHelper(context, DB_NAME, null, DB_VERSION) {
 

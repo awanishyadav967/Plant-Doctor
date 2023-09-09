@@ -1,4 +1,4 @@
-package com.plantplanet.android.models
+package com.SIH.android.models
 
 data class Crop(
     var cropName: String? = null,

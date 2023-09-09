@@ -1,8 +1,7 @@
-package com.plantplanet.android.activities
+package com.SIH.android.activities
 
 import android.Manifest
 import android.annotation.SuppressLint
-import android.content.Intent
 import android.content.pm.PackageManager
 import android.location.Address
 import android.location.Geocoder
@@ -22,9 +21,9 @@ import com.google.android.gms.maps.model.BitmapDescriptorFactory
 import com.google.android.gms.maps.model.LatLng
 import com.google.android.gms.maps.model.MarkerOptions
 import com.google.firebase.firestore.FirebaseFirestore
-import com.plantplanet.android.R
-import com.plantplanet.android.models.Alert
-import com.plantplanet.android.utils.FirebaseHelper
+import com.SIH.android.R
+import com.SIH.android.models.Alert
+import com.SIH.android.utils.FirebaseHelper
 import java.io.IOException
 
 @SuppressLint("MissingPermission")

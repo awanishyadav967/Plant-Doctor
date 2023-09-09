@@ -1,16 +1,16 @@
-package com.plantplanet.android.fragments
+package com.SIH.android.fragments
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment
-import com.plantplanet.android.R
+import com.SIH.android.R
 import android.content.Intent
-import com.plantplanet.android.activities.CheckActivity
-import com.plantplanet.android.activities.CropsActivity
-import com.plantplanet.android.activities.LibraryActivity
-import com.plantplanet.android.activities.MapsActivity
+import com.SIH.android.activities.CheckActivity
+import com.SIH.android.activities.CropsActivity
+import com.SIH.android.activities.LibraryActivity
+import com.SIH.android.activities.MapsActivity
 import kotlinx.android.synthetic.main.fragment_navigation.*
 
 class NavigationFragment : BottomSheetDialogFragment() {

@@ -1,4 +1,4 @@
-package com.plantplanet.android.adapters
+package com.SIH.android.adapters
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -8,9 +8,9 @@ import android.widget.ImageView
 import android.widget.RadioButton
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.plantplanet.android.R
-import com.plantplanet.android.models.Crop
-import com.plantplanet.android.utils.FirebaseHelper
+import com.SIH.android.R
+import com.SIH.android.models.Crop
+import com.SIH.android.utils.FirebaseHelper
 import com.squareup.picasso.Picasso
 import java.io.File
 

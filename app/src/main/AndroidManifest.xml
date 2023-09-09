@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.plantplanet.android">
+          package="com.SIH.android">
 
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
     <uses-permission android:name="android.permission.CAMERA"/>
@@ -13,15 +13,15 @@
             android:supportsRtl="true"
             android:theme="@style/AppTheme"
             android:largeHeap="true">
-        <activity android:name=".activities.CheckActivity">
+        <activity android:name="com.SIH.android.activities.CheckActivity">
         </activity>
-        <activity android:name=".activities.DiseaseActivity">
+        <activity android:name="com.SIH.android.activities.DiseaseActivity">
         </activity>
-        <activity android:name=".activities.LibraryActivity">
+        <activity android:name="com.SIH.android.activities.LibraryActivity">
         </activity>
-        <activity android:name=".activities.ResultActivity">
+        <activity android:name="com.SIH.android.activities.ResultActivity">
         </activity>
-        <activity android:name=".activities.CropsActivity">
+        <activity android:name="com.SIH.android.activities.CropsActivity">
         </activity>
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
@@ -39,10 +39,10 @@
 
 
        <activity
-               android:name=".activities.MapsActivity"
+               android:name="com.SIH.android.activities.MapsActivity"
                android:label="@string/title_activity_maps">
        </activity>
-       <activity android:name=".activities.HomeActivity">
+       <activity android:name="com.SIH.android.activities.HomeActivity">
            <intent-filter>
                <action android:name="android.intent.action.MAIN"/>
 

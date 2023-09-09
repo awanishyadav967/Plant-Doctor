@@ -1,4 +1,4 @@
-package com.plantplanet.android.utils
+package com.SIH.android.utils
 
 import android.content.Context
 import com.google.android.gms.tasks.Task

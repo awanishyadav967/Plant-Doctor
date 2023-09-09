@@ -1,4 +1,4 @@
-package com.plantplanet.android.models
+package com.SIH.android.models
 
 data class Disease(
     var diseaseName: String? = null,

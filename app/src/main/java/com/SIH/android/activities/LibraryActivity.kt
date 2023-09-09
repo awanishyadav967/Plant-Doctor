@@ -1,4 +1,4 @@
-package com.plantplanet.android.activities
+package com.SIH.android.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -8,10 +8,10 @@ import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.widget.SearchView
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.plantplanet.android.R
-import com.plantplanet.android.adapters.LibraryAdapter
-import com.plantplanet.android.models.Disease
-import com.plantplanet.android.utils.FirebaseHelper
+import com.SIH.android.R
+import com.SIH.android.adapters.LibraryAdapter
+import com.SIH.android.models.Disease
+import com.SIH.android.utils.FirebaseHelper
 import kotlinx.android.synthetic.main.activity_library.*
 
 class LibraryActivity : AppCompatActivity() {

@@ -1,4 +1,4 @@
-package com.plantplanet.android.utils
+package com.SIH.android.utils
 
 import android.graphics.Bitmap
 import android.graphics.Color

@@ -1,4 +1,4 @@
-package com.plantplanet.android.activities
+package com.SIH.android.activities
 
 import android.content.Context
 import android.content.Intent
@@ -8,10 +8,10 @@ import android.view.MenuItem
 import android.view.View
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.plantplanet.android.R
-import com.plantplanet.android.adapters.HistoryAdapter
-import com.plantplanet.android.fragments.NavigationFragment
-import com.plantplanet.android.utils.DatabaseHelper
+import com.SIH.android.R
+import com.SIH.android.adapters.HistoryAdapter
+import com.SIH.android.fragments.NavigationFragment
+import com.SIH.android.utils.DatabaseHelper
 import kotlinx.android.synthetic.main.activity_home.*
 import kotlinx.android.synthetic.main.activity_home.bottomAppBar
 import kotlinx.android.synthetic.main.activity_home.recyclerHistory

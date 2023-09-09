@@ -1,4 +1,4 @@
-package com.plantplanet.android.adapters
+package com.SIH.android.adapters
 
 import android.content.Context
 import android.content.Intent
@@ -10,10 +10,10 @@ import android.widget.TextView
 import androidx.constraintlayout.widget.ConstraintLayout
 import androidx.fragment.app.FragmentManager
 import androidx.recyclerview.widget.RecyclerView
-import com.plantplanet.android.R
-import com.plantplanet.android.activities.DiseaseActivity
-import com.plantplanet.android.fragments.HistoryFragment
-import com.plantplanet.android.models.History
+import com.SIH.android.R
+import com.SIH.android.activities.DiseaseActivity
+import com.SIH.android.fragments.HistoryFragment
+import com.SIH.android.models.History
 import com.squareup.picasso.Picasso
 import java.io.File
 

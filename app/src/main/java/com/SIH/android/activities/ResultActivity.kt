@@ -1,4 +1,4 @@
-package com.plantplanet.android.activities
+package com.SIH.android.activities
 
 import android.content.Intent
 import android.graphics.Bitmap
@@ -11,11 +11,11 @@ import android.view.MenuItem
 import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.plantplanet.android.R
-import com.plantplanet.android.adapters.ResultAdapter
-import com.plantplanet.android.models.History
-import com.plantplanet.android.models.Result
-import com.plantplanet.android.utils.DatabaseHelper
+import com.SIH.android.R
+import com.SIH.android.adapters.ResultAdapter
+import com.SIH.android.models.History
+import com.SIH.android.models.Result
+import com.SIH.android.utils.DatabaseHelper
 import kotlinx.android.synthetic.main.activity_result.*
 import java.io.File
 import java.io.FileOutputStream

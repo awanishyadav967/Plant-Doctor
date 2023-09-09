@@ -1,4 +1,4 @@
-package com.plantplanet.android.adapters
+package com.SIH.android.adapters
 
 import android.content.Context
 import android.content.Intent
@@ -9,10 +9,10 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.constraintlayout.widget.ConstraintLayout
 import androidx.recyclerview.widget.RecyclerView
-import com.plantplanet.android.R
-import com.plantplanet.android.activities.DiseaseActivity
-import com.plantplanet.android.models.Disease
-import com.plantplanet.android.utils.FirebaseHelper
+import com.SIH.android.R
+import com.SIH.android.activities.DiseaseActivity
+import com.SIH.android.models.Disease
+import com.SIH.android.utils.FirebaseHelper
 import com.squareup.picasso.Picasso
 import java.io.File
 

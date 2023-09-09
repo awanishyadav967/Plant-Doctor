@@ -1,4 +1,4 @@
-package com.plantplanet.android.activities
+package com.SIH.android.activities
 
 import android.content.Context
 import androidx.appcompat.app.AppCompatActivity
@@ -7,11 +7,10 @@ import android.view.View
 import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.google.firebase.firestore.FirebaseFirestore
-import com.plantplanet.android.R
-import com.plantplanet.android.adapters.CropsAdapter
-import com.plantplanet.android.models.Crop
-import com.plantplanet.android.utils.FirebaseHelper
+import com.SIH.android.R
+import com.SIH.android.adapters.CropsAdapter
+import com.SIH.android.models.Crop
+import com.SIH.android.utils.FirebaseHelper
 import kotlinx.android.synthetic.main.activity_crops.*
 
 class CropsActivity : AppCompatActivity() {
