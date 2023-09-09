@@ -23,7 +23,7 @@
     <string name="gps_required">GPS is required</string>
     <string name="symptoms">Symptoms</string>
     <string name="comments">Comments</string>
-    <string name="management">Management</string>
+    <string name="management">Suggestion</string>
     <string name="history_empty">Your check history appears here</string>
     <string name="import_image">Import</string>
     <string name="title_activity_maps">Map</string>

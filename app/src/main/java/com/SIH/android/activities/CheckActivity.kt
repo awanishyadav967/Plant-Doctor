@@ -9,15 +9,18 @@ import android.graphics.Bitmap
 import android.graphics.BitmapFactory
 import android.graphics.Matrix
 import android.net.Uri
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
 import com.SIH.android.R
-import com.SIH.android.utils.CustomModel
+
 import com.SIH.android.models.Result
+
+import com.SIH.android.utils.CustomModel
+
 import com.SIH.android.utils.FirebaseHelper
 import com.squareup.picasso.Picasso
 import io.fotoapparat.Fotoapparat

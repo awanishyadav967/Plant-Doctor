@@ -11,6 +11,10 @@ import com.SIH.android.R
 import com.SIH.android.adapters.CropsAdapter
 import com.SIH.android.models.Crop
 import com.SIH.android.utils.FirebaseHelper
+<<<<<<< Updated upstream
+=======
+//import com.plantplanet.android.R
+>>>>>>> Stashed changes
 import kotlinx.android.synthetic.main.activity_crops.*
 
 class CropsActivity : AppCompatActivity() {
