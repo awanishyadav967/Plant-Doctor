@@ -1,5 +1,5 @@
 
-# PlantPlanet
+# Plant Doctor
 PlantPlanet is an Android application for plant disease detection. This project is part of Smart India Hackathon SIH-2023
 
 ## Screenshots
